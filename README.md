@@ -1,6 +1,6 @@
-SGMNS
+E-SGMN
 ==
-SGMNS User Manual
+E-SGMN User Manual
 --
 * *1. Introduction and Installation<br>
 
@@ -12,7 +12,7 @@ SGMNS User Manual
 
 * *3. Software running instructions<br>
 
-	* *3.1 Parameter settings for SGMNS<br>
+	* *3.1 Parameter settings for E-SGMN<br>
 
 	* *3.2 Metabolite annotation<br>
 		* *3.2.1 Using the default background database
@@ -22,7 +22,7 @@ SGMNS User Manual
  
 # 1. Introduction and Installation
 
-* Structure-Guided Molecular Network Strategy (SGMNS) is a free network-based and spectral library-independent tool for deep annotation of untargeted ultra-performance liquid chromatography-high resolution mass spectrometry (UPLC-HRMS) metabolomics data. The source program is in the Python language, and the development environment is Spyder 3.7. SGMNS is published as an executable file and can be downloaded freely from the SourceForge via https://sourceforge.net/projects/sgmns/files/ (All five RAR files need to be downloaded).
+* Enhanced Structure-Guided Molecular Networking (E-SGMN) is a free network-based and spectral library-independent tool for deep annotation of untargeted ultra-performance liquid chromatography-high resolution mass spectrometry (UPLC-HRMS) metabolomics data. The source program is in the Python language, and the development environment is Spyder 3.7. E-SGMN is published as an executable file and can be downloaded freely from the SourceForge via https://sourceforge.net/projects/E-SGMN/files/ (All five RAR files need to be downloaded).
 
 # 2. Input files
 
@@ -50,12 +50,12 @@ Figure 3. MGF files
 Figure 4. Seed metabolites
 
 # 3. Software running instructions
-* The executable file is published in a folder, as shown in Figure 5. Double-click SGMNS.exe in the folder ‘SGMNS’ to run the executable file. For the example dataset, the program runs within 30min.
+* The executable file is published in a folder, as shown in Figure 5. Double-click E-SGMN.exe in the folder ‘E-SGMN’ to run the executable file. For the example dataset, the program runs within 30min.
 
 ![image](https://user-images.githubusercontent.com/49905529/199870757-6d3ad3a4-8ce9-4755-8fcf-1918b0852e96.png)<br>
 Figure 5. The folder where the software is published
 
-## 3.1 Parameter settings for SGMNS
+## 3.1 Parameter settings for E-SGMN
 * Enter parameters in turn according to the software prompts, and then press ‘Enter’ to continue. The default parameters are shown in Figure 6.
 
 ![image](https://user-images.githubusercontent.com/49905529/199870775-a752e1d0-528d-471f-a42a-447f21734e9a.png)<br>
@@ -64,7 +64,7 @@ Figure 6. Software interface for parameter settings
 ## 3.2 Metabolite annotation
 ### 3.2.1 Using the default background database
 * When you decide to use the default background network for metabolite annotation, the software interface is shown in Figure 7.
-* If you use SGMNS for the first time, you should set parameters as shown in Figure 8.
+* If you use E-SGMN for the first time, you should set parameters as shown in Figure 8.
 
 ![image](https://user-images.githubusercontent.com/49905529/199870794-567d4256-6f00-4ecf-bd64-15b8a755e3c6.png)<br>
 Figure 7. Software interface for Metabolite annotation using the default background network
