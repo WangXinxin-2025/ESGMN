@@ -22,7 +22,7 @@ E-SGMN User Manual
  
 # 1. Introduction and Installation
 
-* Enhanced Structure-Guided Molecular Networking (E-SGMN) is a free network-based and spectral library-independent tool for deep annotation of untargeted ultra-performance liquid chromatography-high resolution mass spectrometry (UPLC-HRMS) metabolomics data. The source program is in the Python language, and the development environment is Spyder 3.7. E-SGMN is published as an executable file and can be downloaded freely from the SourceForge via https://sourceforge.net/projects/E-SGMN/files/ (All five RAR files need to be downloaded).
+* Enhanced Structure-Guided Molecular Networking (E-SGMN) is a free network-based and spectral library-independent tool for deep annotation of untargeted ultra-performance liquid chromatography-high resolution mass spectrometry (UPLC-HRMS) metabolomics data. The source program is in the Python language, and the development environment is Spyder 3.7. E-SGMN is published as an executable file and can be downloaded freely from the SourceForge via https://sourceforge.net/projects/E-SGMN/files/.
 
 # 2. Input files
 
